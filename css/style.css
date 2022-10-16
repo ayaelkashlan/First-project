@@ -519,9 +519,10 @@ h3{
 .sec7-top span {
    color:rgb(23, 143, 23);
    font-size: 17px;
+   margin-left: 13px;
 }
 .sec7-top h3{
-    margin-left: -400px;
+    margin-left: -380px;
     margin-top: -20px;
 }
 .container{
